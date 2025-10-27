@@ -2,7 +2,7 @@
 
 **Affiliation:** Cyber Security Research Center, Korea Advanced Institute of Science and Technology (KAIST)  
 **Position:** Researcher / Instructor  
-**Email:** [jhson21@kaist.ac.kr](mailto:jhson21@kaist.ac.kr)
+**Email:** [jhson21@kaist.ac.kr](mailto:jhson21@kaist.ac.kr)  
 **Research Fields:** AI-based Network Security, Explainable AI (XAI), Malicious Traffic Detection, Hybrid Modeling
 
 
