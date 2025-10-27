@@ -1,16 +1,21 @@
-# 👨‍🏫 강사 소개 — 손진혁 (Jinhyuk Son)
+# 👨‍🏫 Instructor Profile — Jinhyuk Son (손진혁)
 
-**소속:** 한국과학기술원 (KAIST) 사이버보안연구센터 (Cyber Security Research Center)  
-**직책:** 선임연구원
-**이메일:** [jhson21@kaist.ac.kr](mailto:jhson21@kaist.ac.kr)
-**분야:** AI 기반 네트워크 보안, Explainable AI (XAI), 악성 트래픽 탐지, 하이브리드 모델 설계
+**Affiliation:** Cyber Security Research Center, Korea Advanced Institute of Science and Technology (KAIST)  
+**Position:** Researcher / Instructor  
+**Email:** [jhson21@kaist.ac.kr](mailto:jhson21@kaist.ac.kr)
+**Research Fields:** AI-based Network Security, Explainable AI (XAI), Malicious Traffic Detection, Hybrid Modeling
 
-## 🧠 연구 및 관심 분야
 
-| 분야 | 내용 |
-|------|------|
-| **AI 기반 네트워크 보안** | Flow, Session, Payload 단위 트래픽을 활용한 위협 탐지 |
-| **Explainable AI (XAI)** | SHAP/IG 기반 모델 해석 및 설명 품질 정량화 |
-| **Hybrid Model Design** | BERT + MLP 멀티모달 결합을 통한 탐지 성능 향상 |
-| **Payload NLP Transformation** | 패킷 페이로드를 자연어로 변환하여 LLM 입력으로 활용 |
-| **Cyber Threat Dataset Engineering** | Malware Traffic Analysis 기반 세션 데이터셋 구축 |
+---
+
+## 🧠 Research Interests
+
+| Area | Description |
+|------|--------------|
+| **AI-based Network Security** | Threat detection using flow, session, and payload-level traffic data |
+| **Explainable AI (XAI)** | Quantifying explanation quality using SHAP, Integrated Gradients, and AUC-based metrics |
+| **Hybrid Model Design** | Combining BERT and MLP for multimodal threat detection |
+| **Payload NLP Transformation** | Converting raw packet payloads into natural language for LLM-based reasoning |
+| **Cyber Threat Dataset Engineering** | Building labeled datasets based on Malware Traffic Analysis archives |
+
+---
