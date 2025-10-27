@@ -1,0 +1,2 @@
+sep_path get /wp- B64 .php sep_q file sep_h host example.com sep_ua ua mozilla/#NUM.#NUM charon inferno sep_body body.len #NUM
+sep_path resp #NUM ok sep_h h co application/x-msdownload h co gzip h tr chunked sep_body body.len #NUM body.sig mz

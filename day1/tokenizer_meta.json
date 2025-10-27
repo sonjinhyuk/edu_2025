@@ -1,0 +1,16 @@
+{
+  "model_name_or_path": "bert-base-uncased",
+  "vocab_size": 30522,
+  "max_length": 320,
+  "padding": "max_length",
+  "truncation": "longest_first",
+  "add_special_tokens": true,
+  "do_lower_case": true,
+  "special_tokens_map": {
+    "unk_token": "[UNK]",
+    "sep_token": "[SEP]",
+    "pad_token": "[PAD]",
+    "cls_token": "[CLS]",
+    "mask_token": "[MASK]"
+  }
+}
